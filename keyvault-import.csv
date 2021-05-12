@@ -1,0 +1,5 @@
+MYSQL-DATA-SOURCE-NAME,value
+MYSQL-USERNAME,value
+MYSQL-PASSWORD,value
+MYSQL-HOSTNAME,value
+# Last line left intentionally empty,
